@@ -6,13 +6,13 @@ pkg install python -y
 
 pkg install git -y
 
-git clone https://github.com/RootOfCyber/roc-x
+git clone https://github.com/sanaurasif/roc-x
 
 Commands For All Time:
 
 cd roc-x
 
-python main.py .
+python main2.py .
 
 . . . . . .
 
@@ -26,13 +26,10 @@ Facebook:
 
 https://www.facebook.com/RootOfCyber
 
-What's app:
-
-https://chat.whatsapp.com/JPTOWlsJhhgEVtzht4tAlr
 
 Telegram:
 
-https://t.me/joinchat/JruEd1OzoFJDq9fBlh-Jkg
+https://t.me/ROCX_Group
 
 Contact Us:
 
