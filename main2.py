@@ -79,7 +79,6 @@ elif upchck!=version:
 		clear()
 		notice=green+"\t\t[√] Update Successful!"
 		header()
-		#os.kill(os.getppid(), signal.SIGHUP)
 		os.system("rm -rf $HOME/roc-x_updater")
 		for i in range(99999999999):
 			r2=requests.get("https://pastebin.com/raw/6sBnXFV7")
